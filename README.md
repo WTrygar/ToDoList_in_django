@@ -10,7 +10,7 @@ or (both should work)
 ```
 python manage.py migrate
 ```
-## Start the server (default: http://localhost:8000)
+## Start the server (default: http://localhost:8000):
 ```
 py manage.py runserver
 ```
